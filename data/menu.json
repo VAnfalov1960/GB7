@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "title": "Наши услуги",
+            "type": "sub",
+            "badgeValue": "new",
+            "active": false,
+            "children": [
+                { "path": "/collection/leftsidebar/", "title": "Все услуги", "type": "link" },
+                { "path": "/shop/courses", "title": "Онлайн курсы", "type": "link" },
+                { "path": "/shop/theatre", "title": "Детские спектакли", "type": "link" },
+                { "path": "/shop/dtdm", "title": "Детские коллективы ДТДМ", "type": "link" },
+                { "path": "/shop/my-video/ped-dop-obr-2023", "title": "Видеосъёмка", "type": "link" }
+
+            ]
+        },
+        {
+            "title": "О нас",
+            "type": "sub",
+            "badgeValue": "new",
+            "active": false,
+            "children": [
+                { "path": "/page/about_theatre", "title": "О детском кинотеатре", "type": "link" },
+                { "path": "/page/lookbook", "title": "Наши актёры", "type": "link" },
+                { "path": "/page/about", "title": "Документы организации", "type": "link" },
+                { "path": "/page/portfolio/portfolio", "title": "Мои документы", "type": "link" },
+                { "path": "/page/contact", "title": "Контакты", "type": "link" }
+            ]
+        },
+        {
+            "title": "Магазин",
+            "type": "sub",
+            "active": false,
+            "children": [
+                { "path": "/page/search", "title": "Поиск", "type": "link" },
+                { "path": "/page/account/wishlist", "title": "Список желаний", "type": "link" },
+                { "path": "/page/compare/compare-1", "title": "Сравнить", "type": "link" },
+                { "path": "/page/account/cart", "title": "Корзина", "type": "link" },
+                { "path": "/page/account/checkout", "title": "Оплата", "type": "link" },
+                { "path": "/page/404", "title": "404", "type": "link" } 
+            ]
+        },
+        {
+            "title": "Авторизация",
+            "type": "sub",
+            "active": false,
+            "children": [
+                { "path": "/page/account/dashboard", "title": "Приборная панель", "type": "link" },
+                { "path": "/page/account/profile", "title": "Профиль", "type": "link" },
+                { "path": "/page/account/register", "title": "Регистрация", "type": "link" },
+                { "path": "/page/account/login", "title": "Авторизоваться", "type": "link" },
+                { "path": "/page/account/login-firebase", "title": "Войти в Систему с помощью Firebase", "type": "link" },
+                { "path": "/page/account/forget-password", "title": "Забыли пароль", "type": "link" }
+            ]
+        }
+    ]
+}
+  

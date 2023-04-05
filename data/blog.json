@@ -1,0 +1,116 @@
+{
+    "data": [
+        {
+            "title": "Спасательная экспедиция",
+            "description": "экология",
+            "images": ["theatre/2001.jpg"],
+            "author": "Луч",
+            "date": "2018 год",
+            "type": "экология",
+            "tags": ["экология", "0+"],
+            "src": "https://www.youtube.com/watch?v=hQm0lhZQov0"
+        }, {
+            "title": "Эксперимент",
+            "description": "этикет",
+            "images": ["theatre/2002.jpg"],
+            "author": "Луч",
+            "date": "2018 год",
+            "type": "этикет",
+            "tags": ["этикет", "2+"],
+            "src": "https://www.youtube.com/watch?v=6IvC1JbiITA"
+        }, {
+            "title": "Теремок",
+            "description": "",
+            "images": ["theatre/2003.jpg"],
+            "author": "Луч",
+            "date": "2018 год",
+            "type": "сказка",
+            "tags": ["сказка", "2+"],
+            "src": "https://www.youtube.com/watch?v=BgqK1wOsIBo"
+        },
+        {
+            "title": "Я считаю до 5!",
+            "description": "",
+            "images": ["theatre/2004.jpg"],
+            "author": "Луч",
+            "date": "2018 год",
+            "type": "экология",
+            "tags": ["экология", "0+"],
+            "src": "https://www.youtube.com/watch?v=1k8u5GuJuIg"
+        }, {
+            "title": "Снежные человечки и Солнышко",
+            "description": "",
+            "images": ["theatre/2005.jpg"],
+            "author": "Луч",
+            "date": "2018 год",
+            "type": "этикет",
+            "tags": ["этикет", "2+"],
+            "src": "https://www.youtube.com/watch?v=fnoXwFaIlpI"
+        }, {
+            "title": "Цветик-семицветик",
+            "description": "экология",
+            "images": ["theatre/2006.jpg"],
+            "author": "Луч",
+            "date": "2018 год",
+            "type": "экология",
+            "tags": ["экология", "0+"],
+            "src": "https://www.youtube.com/watch?v=aqjIENIo2SQ"
+        }, {
+            "title": "Кто украл ку-ку?",
+            "description": "этикет",
+            "images": ["theatre/2007.jpg"],
+            "author": "Луч",
+            "date": "2018 год",
+            "type": "этикет",
+            "tags": ["этикет", "2+"],
+            "src": "https://www.youtube.com/watch?v=rQEgcE1oDWM"
+        }, {
+            "title": "Клочки по закоулочкам",
+            "description": "",
+            "images": ["theatre/2008.jpg"],
+            "author": "Луч",
+            "date": "2018 год",
+            "type": "сказка",
+            "tags": ["сказка", "2+"],
+            "src": "https://www.youtube.com/watch?v=4L58rKNOsH4"
+        },
+        {
+            "title": "Сами с усами",
+            "description": "",
+            "images": ["theatre/2009.jpg"],
+            "author": "Луч",
+            "date": "2018 год",
+            "type": "экология",
+            "tags": ["экология", "0+"],
+            "src": "https://www.youtube.com/watch?v=0QUJbQxmVyk"
+        }, {
+            "title": "По щучьему веленью",
+            "description": "",
+            "images": ["theatre/2010.jpg"],
+            "author": "Луч",
+            "date": "2018 год",
+            "type": "этикет",
+            "tags": ["этикет", "2+"],
+            "src": "https://www.youtube.com/watch?v=_nvRZ12vagc"
+        },
+        {
+            "title": "Не садись на пенёк",
+            "description": "",
+            "images": ["theatre/2012.jpg"],
+            "author": "Луч",
+            "date": "2018 год",
+            "type": "экология",
+            "tags": ["экология", "0+"],
+            "src": "https://www.youtube.com/watch?v=hkkt74w-CjM"
+        }, {
+            "title": "Машина сказка",
+            "description": "этикет",
+            "images": ["theatre/2020.jpg"],
+            "author": "Луч",
+            "date": "2018 год",
+            "type": "этикет",
+            "tags": ["этикет", "2+"],
+            "src": "https://www.youtube.com/watch?v=X45I8Wrav50"
+        }
+    ]
+}
